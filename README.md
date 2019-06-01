@@ -68,8 +68,11 @@ npm install -g generator-z-react-cli
 ```
 
 最后新建个空文件夹,在文件夹里生成项目
+
 ```
 yo z-react-cli
+
+
 
 ```
 
@@ -81,6 +84,7 @@ ok , 项目构建完毕,可以愉快的进行 react 项目开发了
 ``` bash
 # install dependencies
 npm install
+npm i node-sass@latest
 
 # serve with hot reload at localhost:8080
 npm run hot
